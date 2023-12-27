@@ -1,2 +1,4 @@
 Nama  : Gregorius Volansius Ragut
 Nim   : 21101199
+matkul: cloud computing
+jamkul: 19:50-22:20
